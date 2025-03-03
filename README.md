@@ -3,4 +3,4 @@ In this project I looked at teting some basic HTML & Bootstrap functions into th
 Containers and Fluid Containers
 Creating an basic input form into the project with required validation
 A custom formatted button
-and an Basic 
+And a table with some cusrtom Bootstrap functionality
