@@ -1,6 +1,7 @@
-In this project I looked at teting some basic HTML & Bootstrap functions into the project, this includes using:
+In this project, I explored integrating basic HTML and Bootstrap functionality. This included:
 
-Containers and Fluid Containers
-Creating an basic input form into the project with required validation
-A custom formatted button with one being only viewable at certain sizes 
-And a table with some cusrtom Bootstrap functionality
+- Utilizing containers and fluid containers for responsive layout.
+- Creating a simple input form with required validation.
+- Designing a custom button that only appears at certain screen sizes.
+- Implementing a table with Bootstrap’s custom features for enhanced functionality, along with additional styling to improve readability.
+- Applying a dark theme to the page to experiment with different design elements. 
